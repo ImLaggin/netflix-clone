@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/ui-react": "^2.1.9",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
+    "amplify": "^0.0.11",
+    "aws-amplify": "^4.3.12",
     "axios": "^0.21.0",
     "movie-trailer": "^2.0.6",
     "react": "^17.0.1",

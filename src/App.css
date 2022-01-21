@@ -5,3 +5,20 @@
 .App {
   background-color: #111;
 }
+
+.signout_button {
+  background-color: #111;
+  opacity: 0.9;
+  border-radius: 20px;
+  padding: 10px 20px;
+  color: red;
+  border: none;
+  z-index: 99;
+  transition: all 0.3s;
+  /* transform: translate(0vw, 0vh); */
+}
+.signout_button:hover {
+  transform: translate(0px, 10px);
+  color: white;
+  opacity: 0.6;
+}
