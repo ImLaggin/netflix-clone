@@ -24,11 +24,6 @@ function Nav(props) {
         />
       </div>
 
-      {/* <img
-          className="nav__avtar"
-          src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/366be133850498.56ba69ac36858.png"
-          alt="Netflix Logo"
-        /> */}
       <div>
         <button onClick={props.signOut} className="signout_button">
           Sign out
